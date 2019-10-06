@@ -5,4 +5,4 @@ In browser face detection
 
 # How to run
 
-*Just open up a live server from VScode and this will be displayed on the browser.
+Just open up a live server from VScode and this will be displayed on the browser.
